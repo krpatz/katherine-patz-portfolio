@@ -1,31 +1,14 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
-
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
-
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hello! I am Kat, and I am a second year Arts Management student interested in education, programming, and development within visual arts & cultural organizations. Most recently I have worked with Smithsonian Associates and the August Wilson African American Cultural Center with their education & community engagement teams, and am currently the Advancement & Engagement intern with the Frick Pittsburgh. 
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+- I hope to gain a deeper understanding of how to craft and identify effective visualizations that are compelling and intuitive to readers. 
+- I hope to gain proficiency in unearthing the true story within a data collection, identifying what visual medium may best explain/suit the data, and then using said vizualization to support an identified narrative.  
+- I hope to challenge my own preconception of myself not being a technical/data analytical centric person!  
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
-
+After graduation, I hope to use the skills from this course to craft narratives around trends in arts education or arts fundraising.
 # Portfolio
 
 # Examples
