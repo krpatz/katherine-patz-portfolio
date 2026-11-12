@@ -44,6 +44,10 @@ For my final redesign, I knew I wanted readers to be able to better intuit the k
 
 Compared to the original data visualization on MakeoverMonday, I believe my visualization, although also being a scatterplot, has a clearer point of view and a key take away for readers, uses the axis more intuitively to reflect the displayed variables, utilizes color in an intentional way, and takes more care not to relate any causation to correlation.
 
+## References
+
+Few, Stephen. “Data Visualization Effectiveness Profile.” Perceptual Edge. Accessed November 12, 2026. https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf. 
+
 ## AI acknowledgements
 AI Disclosure: I used Claude to help identify how to display a trend line in Tableau, and also to explore where the logarithmic trend was the strongest and weakest within the data set. 
 
