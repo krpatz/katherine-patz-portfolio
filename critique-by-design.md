@@ -6,6 +6,8 @@
 
 Link to the original data visualization: https://makeovermonday.vercel.app/dataset/2022w36
 
+<img width="747" height="608" alt="Screenshot 2026-11-12 at 4 57 48 PM" src="https://github.com/user-attachments/assets/70cd46d9-a057-42b4-9684-cc58aec78563" />
+
 I chose this visualization mostly out of personal curiosity around the topic. I am a 27 year old from Oklahoma and have found many of my former friends and classmates have gone on to get married, whereas I have not. When I saw the visualization, I thought it was straightforward and simple, but could definitely be improved upon. Also, the data itself was simple and clean, so I didn't feel intimidated about using it. 
 
 ## Step two: the critique
