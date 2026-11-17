@@ -92,7 +92,7 @@ I plan to use Tableau to create my data visualizations for my final project, and
 
 “DC Commission on the Arts and Humanities Awards Nearly $25 Million in Grants for Fiscal Year 2020.” The DC Commission on the Arts and Humanities, December 17, 2019. https://dcarts.dc.gov/release/dc-commission-arts-and-humanities-awards-nearly-25-million-grants-fiscal-year-2020. 
 
-“Grant Search | National Endowment for the Arts.” The National Endowment for the Arts. Accessed November 16, 2026. https://grantsearch.nea.gov/?State=DC&GrantFromDate=2020&GrantToDate=2026. 
+“Grant Search, National Endowment for the Arts.” The National Endowment for the Arts. Accessed November 16, 2026. https://grantsearch.nea.gov/?State=DC&GrantFromDate=2020&GrantToDate=2026. 
 
 “What Is the Nea?” National Endowment for the Arts. Accessed November 16, 2026. https://www.arts.gov/about/what-is-the-nea.
 
