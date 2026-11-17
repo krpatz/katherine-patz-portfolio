@@ -6,23 +6,23 @@ My topic came about through a combination of my experience living and working in
 
 My project will explore the landscapes of local funding and federal funding within arts organizations in the D.C. area from FY 2020-FY 2026, the federal arts grants given to D.C. organizations that were terminated in 2025, which organizations were most affected by the lost grants, and where local donors can make a difference in their charitable giving. My intended audience for this project is D.C. based donors with an interest in supporting local arts/humanities organizations. I will be relying upon data from FY2021-2026 for my data visualizations.
 
-Project structure outlining major elements of my story:
+## Project structure outlining major elements of my story:
 
-Baselines for comparison
+### Baselines for comparison
 - First we will look at annual grant award compilations from D.C.’s Commission on the Arts and Humanities (referred to as CAH from here on), an institution that provides grants to arts & humanities organizations, with their funding capacity generated primarily through local tax revenue. CAH reports giving about $25 million in FY2020(1), over $26.6 million in FY2024(2), about $32.2 million in FY2025(3), and plans to give over $26.1 million in FY2026(4). This demonstrates that public funding of the arts in D.C. has overall been steady, with a slight increase in FY2025. 
 - Then we will analyze the federal layer by looking at the National Endowment for the Arts (NEA) funding allocated to DC organizations from FY2020-2026. For context, the NEA is a federal agency and also “largest funder of the arts and arts education in communities nationwide”(5). As you can see, FY 2020-2024 grant amounts remained relatively the same, with a dramatic decrease from 2024 to 2025. In FY 2025, arts organizations across the nation faced termination of their grants, or were forced to cancel their application due to new and often restrictive application instructions. 
 
 
-The 2025 Federal Cuts
+### The 2025 Federal Cuts
 
 Using the NEA GRANT TERMINATION TRACKER, organized by the Artist Communities Alliance, I will determine how much/where grant money was lost in the D.C. area from organizations that received NEA grants. I plan to demonstrate which artistic disciplines were most affected by the grant terminations through a data visualization. This also shows us How much total grant money was lost, and will determine if there are certain disciplines that suffered more than others. 
 
 
-Analysis of which orgs are left most vulnerable
+### Analysis of which orgs are left most vulnerable
 
 Then I will showcase which organizations were most affected by the NEA cuts by illustrating how much was taken, the general operating budget of these organizations, how much they relied on federal support, if there are any subcategories of arts that were must affected by cuts, etc. 
 
-CTA
+### CTA
 
 Reassure audience members that despite what is happening on the federal level, The D.C. community clearly values the health and vibrancy of its arts organizations- and rightfully so. 
 - I will reference the SMU Data Arts Vibrancy calculator, ranking D.C. as the 5th most vibrant community across the country (Arts Vibrancy is calculated through 13 metrics including independent artists, total compensation, and total government support) (6).
@@ -30,7 +30,7 @@ Reassure audience members that despite what is happening on the federal level, T
 But the federal funding cuts have still left some organizations vulnerable, and they need your support.  
 I will highlight organizations/areas that are most in need of individual donor support, which can look like local giving, advocacy, and showing up (to exhibitions, performances, etc.)
 
-FOOTNOTES
+### FOOTNOTES
 
 “DC Commission on the Arts and Humanities Awards Nearly $25 Million in Grants for Fiscal Year 2020,” The DC Commission on the Arts and Humanities, December 17, 2019, https://dcarts.dc.gov/release/dc-commission-arts-and-humanities-awards-nearly-25-million-grants-fiscal-year-2020.
 
