@@ -1,42 +1,97 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+My topic came about through a combination of my experience living and working in Washington D.C with the Smithsonian Institution, and my current work with the advancement & engagement department at the Frick Pittsburgh. I knew I wanted to do a project analyzing fundraising trends within US arts organizations, but this was too broad a scope with no real take away. Since I planned to return to D.C. after graduation, I figured that was an intuitive way to narrow my scope. And during my time in D.C., I heard many first hand accounts around the frustrations related to federal funding cuts for arts orgs, so I decided I’d like to explore where those federal funding cuts are felt most acutely in the D.C arts org ecosystem, and where local, individual fundings could make a difference.
 
-Text here...
+My project will explore the landscapes of local funding and federal funding within arts organizations in the D.C. area, the federal D.C. arts grants that were terminated in 2025, which organizations were most affected, and where local donors can make a difference in their charitable giving. My intended audience for this project is D.C. based donors with an interest in supporting local arts/humanities organizations. I will be relying upon data from FY2021-2026 for my data visualizations.
+
+Project structure outlining major elements of my story:
+
+Baselines for comparison
+- First we will look at annual grant award compilations from D.C.’s Commission on the Arts and Humanities (referred to as CAH from here on), an institution that provides grants to arts & humanities organizations, with their funding capacity generated primarily through local tax revenue. CAH reports giving about $25 million in FY2020(1), over $26.6 million in FY2024(2), about $32.2 million in FY2025(3), and plans to give over $26.1 million in FY2026(4). This demonstrates that public funding of the arts in D.C. has overall been steady, with a slight increase in FY2025. 
+- Then we will analyze the federal layer by looking at the National Endowment for the Arts (NEA) funding allocated to DC organizations from FY2020-2026. For context, the NEA is a federal agency and also “largest funder of the arts and arts education in communities nationwide”(5). 
+
+The 2025 Federal Cuts
+
+Using the NEA GRANT TERMINATION TRACKER, organized by the Artist Communities Alliance, I will determine how much/where grant money was lost in the D.C. area from organizations that received NEA grants. I plan to demonstrate which artistic disciplines were most affected by the grant terminations through a data visualization. 
+
+Analysis of which orgs are left most vulnerable
+
+Then I will showcase which organizations were most affected by the NEA cuts by illustrating how much was taken, the general operating budget of these organizations, how much they relied on federal support, if there are any subcategories of arts that were must affected by cuts, etc. 
+
+CTA
+
+Reassure audience members that despite what is happening on the federal level, The D.C. community clearly values the health and vibrancy of its arts organizations- and rightfully so. 
+- I will reference the SMU Data Arts Vibrancy calculator, ranking D.C. as the 5th most vibrant community across the country (Arts Vibrancy is calculated through 13 metrics including independent artists, total compensation, and total government support) (6).
+
+But the federal funding cuts have still left some organizations vulnerable, and they need your support.  
+I will highlight organizations/areas that are most in need of individual donor support, which can look like local giving, advocacy, and showing up (to exhibitions, performances, etc.)
+
+FOOTNOTES
+“DC Commission on the Arts and Humanities Awards Nearly $25 Million in Grants for Fiscal Year 2020,” The DC Commission on the Arts and Humanities, December 17, 2019, https://dcarts.dc.gov/release/dc-commission-arts-and-humanities-awards-nearly-25-million-grants-fiscal-year-2020.
+
+“DC Arts Commission Awards Over $26.6 Million in Grants,” DC Commission on the Arts and Humanities, October 2, 2023, https://dcarts.dc.gov/release/dc-arts-commission-awards-over-266-million-grants.
+
+“Annual - DC Commission on the Arts and Humanities,” The DC Commission on the Arts and Humanities, accessed November 16, 2026, https://dcarts.dc.gov/sites/default/files/dc/sites/dcarts/Annual%20Report%20FY25.pdf.
+
+“DC Arts Commission Awards Over $26.1 Million in Grants,” The DC Commission on the Arts and Humanities, November 4, 2025, https://dcarts.dc.gov/release/dc-arts-commission-awards-over-261-million-grants.
+
+“What Is the Nea?,” National Endowment for the Arts, accessed November 16, 2026, https://www.arts.gov/about/what-is-the-nea.
+
+“Arts Vibrancy Index 2025 - Data Explorer. Dataarts,” DataArts, accessed November 16, 2026, https://culturaldata.org/arts-vibrancy-2025/data-explorer/.
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+Below is the general flow of the story including (very) rough sketches of how I plan to visualize the data to support:
+<img width="4284" height="5712" alt="IMG_4559" src="https://github.com/user-attachments/assets/64bf2b6c-9a93-4751-b18d-ef20f8ad310c" />
+<img width="4284" height="5712" alt="IMG_4561" src="https://github.com/user-attachments/assets/0f6610e0-3fd6-4541-8ce2-b8f519191e8a" />
+<img width="4284" height="5712" alt="IMG_4560" src="https://github.com/user-attachments/assets/b96c74eb-0c09-4ca1-a471-f6f77bd45c4b" />
+
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+D.C.’s Commission for the Arts and Humanities:
+https://dcarts.dc.gov/page/cah-annual-reports
+This is less of a dataset, but I am able to pull annual grant amounts from CAH and compile them into my own set to display total FY grant distribution amounts to understand where public funding for the arts is going & trends in FY2020-2026
+Disclaimer: unsure why 2023 does not have an annual report. 
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+National Endowment for the Arts (NEA) grants given to DC organizations from FY2020-2026
+https://grantsearch.nea.gov/?State=DC&GrantFromDate=2020&GrantToDate=2026
+This data set lists all organizations that received a NEA grant from FY2020-FY2026. It includes the year the grant was made, how much the grant was for, the type of art represented, and the grant period. I will use this data to determine typical giving from the NEA for each fiscal year, and the divisions of art that receive the most and least. 
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+NEA GRANT TERMINATION TRACKER:
+https://artistcommunities.org/news/advocacy-alert-3 
+This data set documents grants that have been terminated by the NEA, including what artistic discipline their organizations was in, how much the grant was for, and the FY they were planning on receiving it. 
+I will use this data set both to illustrate how much federal funding was lost in the D.C. arts ecosystem, as well as analyze which discipline saw the largest revocation of funding. I also plan to identify specific organizations or subcategories that seemed to be most affected by the revoking of federal funding.  
+Also disclaimer that this excel spreadsheet is elected information only. It may not represent every organization that had a terminated NEA grant. 
+
+SMU Data Arts Vibrancy 
+https://culturaldata.org/arts-vibrancy-2025/data-explorer/
+I will use this data set to illustrate the prevailing strength of the arts ecosystem D.C., despite having lower federal arts dollars and federal arts grants, to reassure donors in keeping their charitable arts giving local. 
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+I plan to use Tableau to create my data visualtions for my final project, and a tableau template 
 
 ## References
-_List any references you used here._
+“About CHA.” DC Commission on the Arts and Humanities . Accessed November 16, 2026. https://dcarts.dc.gov/page/about-cah. 
+
+“Annual - DC Commission on the Arts and Humanities.” The DC Commission on the Arts and Humanities. Accessed November 16, 2026. https://dcarts.dc.gov/sites/default/files/dc/sites/dcarts/Annual%20Report%20FY25.pdf. 
+
+“Arts Vibrancy Index 2025 - Data Explorer. Dataarts.” DataArts. Accessed November 16, 2026. https://culturaldata.org/arts-vibrancy-2025/data-explorer/. 
+
+“DC Arts Commission Awards Over $26.1 Million in Grants.” The DC Commission on the Arts and Humanities, November 4, 2025. https://dcarts.dc.gov/release/dc-arts-commission-awards-over-261-million-grants. 
+
+“DC Arts Commission Awards Over $26.6 Million in Grants.” DC Commission on the Arts and Humanities, October 2, 2023. https://dcarts.dc.gov/release/dc-arts-commission-awards-over-266-million-grants. 
+
+“DC Commission on the Arts and Humanities Awards Nearly $25 Million in Grants for Fiscal Year 2020.” The DC Commission on the Arts and Humanities, December 17, 2019. https://dcarts.dc.gov/release/dc-commission-arts-and-humanities-awards-nearly-25-million-grants-fiscal-year-2020. 
+
+“Grant Search | National Endowment for the Arts.” The National Endowment for the Arts. Accessed November 16, 2026. https://grantsearch.nea.gov/?State=DC&GrantFromDate=2020&GrantToDate=2026. 
+
+“What Is the Nea?” National Endowment for the Arts. Accessed November 16, 2026. https://www.arts.gov/about/what-is-the-nea.
+
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used Gemini to help refine the structure of my story/idea, and also to create a dataset from the NEA GRANT TERMINATION TRACKER to create a data set of only D.C. based grant cancellations.  
