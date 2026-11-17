@@ -4,17 +4,19 @@
 
 My topic came about through a combination of my experience living and working in Washington D.C with the Smithsonian Institution, and my current work with the advancement & engagement department at the Frick Pittsburgh. I knew I wanted to do a project analyzing fundraising trends within US arts organizations, but this was too broad a scope with no real take away. Since I planned to return to D.C. after graduation, I figured that was an intuitive way to narrow my scope. And during my time in D.C., I heard many first hand accounts around the frustrations related to federal funding cuts for arts orgs, so I decided I’d like to explore where those federal funding cuts are felt most acutely in the D.C arts org ecosystem, and where local, individual fundings could make a difference.
 
-My project will explore the landscapes of local funding and federal funding within arts organizations in the D.C. area, the federal D.C. arts grants that were terminated in 2025, which organizations were most affected, and where local donors can make a difference in their charitable giving. My intended audience for this project is D.C. based donors with an interest in supporting local arts/humanities organizations. I will be relying upon data from FY2021-2026 for my data visualizations.
+My project will explore the landscapes of local funding and federal funding within arts organizations in the D.C. area from FY 2020-FY 2026, the federal arts grants given to D.C. organizations that were terminated in 2025, which organizations were most affected by the lost grants, and where local donors can make a difference in their charitable giving. My intended audience for this project is D.C. based donors with an interest in supporting local arts/humanities organizations. I will be relying upon data from FY2021-2026 for my data visualizations.
 
 Project structure outlining major elements of my story:
 
 Baselines for comparison
 - First we will look at annual grant award compilations from D.C.’s Commission on the Arts and Humanities (referred to as CAH from here on), an institution that provides grants to arts & humanities organizations, with their funding capacity generated primarily through local tax revenue. CAH reports giving about $25 million in FY2020(1), over $26.6 million in FY2024(2), about $32.2 million in FY2025(3), and plans to give over $26.1 million in FY2026(4). This demonstrates that public funding of the arts in D.C. has overall been steady, with a slight increase in FY2025. 
-- Then we will analyze the federal layer by looking at the National Endowment for the Arts (NEA) funding allocated to DC organizations from FY2020-2026. For context, the NEA is a federal agency and also “largest funder of the arts and arts education in communities nationwide”(5). 
+- Then we will analyze the federal layer by looking at the National Endowment for the Arts (NEA) funding allocated to DC organizations from FY2020-2026. For context, the NEA is a federal agency and also “largest funder of the arts and arts education in communities nationwide”(5). As you can see, FY 2020-2024 grant amounts remained relatively the same, with a dramatic decrease from 2024 to 2025. In FY 2025, arts organizations across the nation faced termination of their grants, or were forced to cancel their application due to new and often restrictive application instructions. 
+
 
 The 2025 Federal Cuts
 
-Using the NEA GRANT TERMINATION TRACKER, organized by the Artist Communities Alliance, I will determine how much/where grant money was lost in the D.C. area from organizations that received NEA grants. I plan to demonstrate which artistic disciplines were most affected by the grant terminations through a data visualization. 
+Using the NEA GRANT TERMINATION TRACKER, organized by the Artist Communities Alliance, I will determine how much/where grant money was lost in the D.C. area from organizations that received NEA grants. I plan to demonstrate which artistic disciplines were most affected by the grant terminations through a data visualization. This also shows us How much total grant money was lost, and will determine if there are certain disciplines that suffered more than others. 
+
 
 Analysis of which orgs are left most vulnerable
 
@@ -29,6 +31,7 @@ But the federal funding cuts have still left some organizations vulnerable, and 
 I will highlight organizations/areas that are most in need of individual donor support, which can look like local giving, advocacy, and showing up (to exhibitions, performances, etc.)
 
 FOOTNOTES
+
 “DC Commission on the Arts and Humanities Awards Nearly $25 Million in Grants for Fiscal Year 2020,” The DC Commission on the Arts and Humanities, December 17, 2019, https://dcarts.dc.gov/release/dc-commission-arts-and-humanities-awards-nearly-25-million-grants-fiscal-year-2020.
 
 “DC Arts Commission Awards Over $26.6 Million in Grants,” DC Commission on the Arts and Humanities, October 2, 2023, https://dcarts.dc.gov/release/dc-arts-commission-awards-over-266-million-grants.
@@ -64,16 +67,17 @@ NEA GRANT TERMINATION TRACKER:
 https://artistcommunities.org/news/advocacy-alert-3 
 This data set documents grants that have been terminated by the NEA, including what artistic discipline their organizations was in, how much the grant was for, and the FY they were planning on receiving it. 
 I will use this data set both to illustrate how much federal funding was lost in the D.C. arts ecosystem, as well as analyze which discipline saw the largest revocation of funding. I also plan to identify specific organizations or subcategories that seemed to be most affected by the revoking of federal funding.  
-Also disclaimer that this excel spreadsheet is elected information only. It may not represent every organization that had a terminated NEA grant. 
+Also disclaimer that this excel spreadsheet is elected information only. It may not represent every organization that had a terminated NEA grant.
 
 SMU Data Arts Vibrancy 
 https://culturaldata.org/arts-vibrancy-2025/data-explorer/
 I will use this data set to illustrate the prevailing strength of the arts ecosystem D.C., despite having lower federal arts dollars and federal arts grants, to reassure donors in keeping their charitable arts giving local. 
 
-# Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+In addition, I plan to pull some financial information about specific organizations that lost grants from their FY 2025 990 forms. 
 
-I plan to use Tableau to create my data visualtions for my final project, and a tableau template 
+# Method and medium
+
+I plan to use Tableau to create my data visualizations for my final project, and shorthand to contain it all. 
 
 ## References
 “About CHA.” DC Commission on the Arts and Humanities . Accessed November 16, 2026. https://dcarts.dc.gov/page/about-cah. 
