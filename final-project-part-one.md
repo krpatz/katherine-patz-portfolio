@@ -47,9 +47,9 @@ I will highlight organizations/areas that are most in need of individual donor s
 ## Initial sketches
 
 Below is the general flow of the story including (very) rough sketches of how I plan to visualize the data to support:
-<img width="4284" height="5712" alt="IMG_4559" src="https://github.com/user-attachments/assets/64bf2b6c-9a93-4751-b18d-ef20f8ad310c" />
-<img width="4284" height="5712" alt="IMG_4561" src="https://github.com/user-attachments/assets/0f6610e0-3fd6-4541-8ce2-b8f519191e8a" />
-<img width="4284" height="5712" alt="IMG_4560" src="https://github.com/user-attachments/assets/b96c74eb-0c09-4ca1-a471-f6f77bd45c4b" />
+<img width="1000" height="1000" alt="IMG_4559" src="https://github.com/user-attachments/assets/64bf2b6c-9a93-4751-b18d-ef20f8ad310c" />
+<img width="1000" height="1000" alt="IMG_4560" src="https://github.com/user-attachments/assets/b96c74eb-0c09-4ca1-a471-f6f77bd45c4b" />
+<img width="1000" height="1000" alt="IMG_4561" src="https://github.com/user-attachments/assets/0f6610e0-3fd6-4541-8ce2-b8f519191e8a" />
 
 
 # The data
