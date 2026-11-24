@@ -15,10 +15,11 @@ Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
+| What is clear/what resonates?       |What aspects of this project were the clearest take-aways? What portions did you find most interesting or meaningful?                    |
+| What data visualizations are impactful and well embedded into the narrative?    | Did the data visualization help your understanding of the narrative?                  |
+| What is too vague, which parts of the narrative feel weak or unfinished?     | What felt unclear or unsupported?
+| Are there perspectives completely missing from my narrative all together? What portions could benefit from additional data visualizations? |Was there any portion where you wanted more context or additional information? |
+| Are there perspectives completely missing from my narrative all together? | After going through the entire project, did you have any unanswered questions? |
 
 Text here!
 
