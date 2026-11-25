@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-Rough draft of storyboard and integrated data visualizations can be found here: https://preview.shorthand.com/BUIaBLmPetoAmi5c/responsive/phone
+Rough draft of storyboard and integrated data visualizations can be found here:
 
 # User research 
 
@@ -58,9 +58,10 @@ Text here!
 Text here!
 
 ## References (all references from Pt 1 used for Shorthand + these new ones) 
-“Cultural Landscape Foundation - Nonprofit Explorer - ProPublica.” ProPublica. Accessed November 25, 2026. https://projects.propublica.org/nonprofits/organizations/522092229. 
 
 “Dance Place - Nonprofit Explorer - ProPublica.” ProPublica. Accessed November 25, 2026. https://projects.propublica.org/nonprofits/organizations/521118504. 
+
+“Theatre Washington - Nonprofit Explorer - Propublica.” ProPublica. Accessed November 25, 2026. https://projects.propublica.org/nonprofits/organizations/521317562. 
 
 ## AI acknowledgements
 Used Claude to help identify which organizations on the NEA grant cut spreadsheets were best to use as case studies by analyzing their grant amount cut vs financial statements 
