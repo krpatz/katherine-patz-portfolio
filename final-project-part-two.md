@@ -6,7 +6,7 @@ Rough draft of storyboard and integrated data visualizations can be found here: 
 # User research 
 
 ## Target audience
-My intended audience for this project is D.C. based donors with an interest in supporting local arts/humanities organizations.
+My intended audience for this project is D.C. based donors with an interest in supporting local arts organizations.
 
 ## Interview script
 I am hoping to understand the strengths of my current outline: what is clear, what stories resonate, what data visualizations are impactful and well embedded into the narrative, as well as its weaknesses: what is too vague, which parts of the narrative feel weak or unfinished, what portions could benefit from additional data visualizations, or are there perspectives completely missing from my narrative all together.   
