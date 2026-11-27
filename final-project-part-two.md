@@ -24,15 +24,12 @@ Text here!
 Text here!
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+I interviewed 2 MAM grad students and one non-Heinz friend who is a lawyer at a non-profit environmental law firm. First I will summarize the questions with the MAMs, as i interviewed them together, and then the lawyers perspectives.
 
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+Both MAMs agreed the story arc presented was clear, and that each section made sense. MAM Student 1 said they felt the NEA chart was most impactful, with the 2025 dip in funding being very clear. MAM Student 2 liked the visualization of which disciplines lost the most funding in DC. 
+Turning to what felt unclear or unsupported, MAM student 1 still felt unsure what the CAH chart and information was trying to represent in the context of this presentation. MAM Student 2 agreed, and added that they were unsure what my criteria were for choosing Dance Place and Theatre Washington as case studies. 
+Regarding areas where context was lacking, both MAM students agreed that more information about what NEA and CAH grants fund for arts organizations may be helpful for a more general audience. 
+And for any unanswered questions, they both pointed out that they wanted a clearer call to action at the end (which is totally fair as I have not finished that section yet!) 
 
 
 # Identified changes for Part III
@@ -42,20 +39,14 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Lack of clarity around what CAH is and its function | Although I am assuming DC based donors may know about CAH and what it does, I agree it would be effective to add more background as to the type of grants they distribute, what kind of arts organizations they support, average grant amounts and how organizations USE the grants they receive. | 
+| Confusion as to decision criteria for case studies | This seems like a simple fix- I could add a sentence or two as to why I chose to highlight these organizations and be transparent in what my decision criteria is. |
+| More background on how CAH and NEA grants are used | While I already addressed this slightly in the frist research synthesis point, I could similarly add more information about the kind of grants NEA provides, how organizations use them.|
+| Need a clear call to action  | I need to actually build out this part!|
+|            |                                                                                 |
 
-> ...include any final thoughts you have here. 
+It was really helpful hearing from the MAMs about what was unclear and what needed more context. I have gotten so close to this project, and it is hard to take a step back and analyze what I have created more objectively. 
 
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
 ## References (all references from Pt 1 used for Shorthand + these new ones) 
 
